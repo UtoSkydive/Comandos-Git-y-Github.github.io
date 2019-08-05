@@ -159,6 +159,7 @@ git remote -v
 
 ```javascript
 git pull origin master --allow-unrelated-histories
+esc shif zz forzar guardado
 
 ```
 
